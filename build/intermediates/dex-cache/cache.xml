@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2c7f5af2448567d6ccb4916a6aad3b31e32ff138">
+        <dex dex="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_266a7b03728ad799ced08f791f14a30da7f21715\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_9f4a796a65944638f08e1cb908863c31b0af3505\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Henrik\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_55baf54192917b84c96960923b15891deb51def7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_30081ab97a2d3bb095e4521cb14ab1c8cfbd03d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_f0debd49cb52356ecfa592547b4ccb1a988e89b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a5cd4a019107d5065c7f19b40e9911e27755ccfa">
+        <dex dex="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3ff44b095681f1a631b40264fd86619c138c9fdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_59c48db3d131d8d56a6ac4bcf2b44b1ad33df3a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Henrik\Documents\Apps\Telleapparat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_f1262e50d79a98c15b847526020e956b4580d7f2\classes.dex" />
+    </item>
+
+</items>
